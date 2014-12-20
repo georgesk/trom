@@ -1,0 +1,9 @@
+/* styles de l'application */
+
+#identifyName {
+    border: 1px grey solid;
+    corner-radius: 5px;
+    padding: 20px;
+    width: 400px;
+    visibility: hidden;
+}
