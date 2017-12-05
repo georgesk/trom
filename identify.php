@@ -1,5 +1,6 @@
 <?php
 // just a simple comment
+// another comment
 
 $imgData=$_POST["img"];
 $img0 = imagecreatefromjpeg($imgData);
